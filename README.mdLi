@@ -1,1 +1,39 @@
-Live Server :- https://abdelrahmangalal200101-cpu.github.io/Using-Flex-System-On-Page/
+# 🚀 Using Flex System on Page – CSS Basics
+
+## 📌 Overview
+
+This project marks the **beginning of my CSS journey**.
+
+It is a static webpage where I applied **Flexbox** to layout elements efficiently, along with **shadows** and **hover effects** to enhance the visual design.
+
+🔗 **Live Demo:**  
+https://abdelrahmangalal200101-cpu.github.io/Using-Flex-System-On-Page/
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- Flexbox layout  
+- Box-shadow & Hover effects  
+
+---
+
+## 🎯 What I Learned
+
+- Using Flexbox for responsive layouts  
+- Applying shadows to elements for depth  
+- Using hover states for interactive UI  
+- Combining CSS properties to create visually appealing pages  
+- Structuring CSS cleanly for maintainability  
+
+---
+
+## 📈 Progress Note
+
+This project shows the next step after basic HTML tables.  
+
+It reflects my **growth in styling and layout techniques**, moving from plain static structures to responsive and interactive designs.
+
+It laid the foundation for building more dynamic and visually polished pages in future projects.
